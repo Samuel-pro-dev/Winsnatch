@@ -1,2 +1,0 @@
-# Winsnatch
-Windows Info Steaer
